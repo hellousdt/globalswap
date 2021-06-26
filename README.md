@@ -1,1 +1,1 @@
-# globalswap
+# GlobalSwap
